@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Lucas Reis
 - 👀 I’m interested in QA!
 - 🌱 I’m currently learning about test automation!
-- 📫 How to reach me? Please send me a mensage on LinkedIn: https://www.linkedin.com/in/lucas-garcia-dos-reis/
+- 📫 How to reach me? https://www.linkedin.com/in/lucas-garcia-dos-reis/
 
 <div>
 <a href="https://github.com/lucasg-reis">
